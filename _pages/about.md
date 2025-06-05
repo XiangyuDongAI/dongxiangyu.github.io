@@ -26,3 +26,9 @@ My goal is to develop embodied navigation agents that can autonomously perceive,
 - 06/2024: I obtained my Master's degree from Zhejiang University of Technology.
 - 05/2024: I joined Professor Xiaoguang Ma's laboratory.
 
+**Publications**
+
+- Xiangyu Dong, Xiaoguang Ma, "SE-VLN: A Self-Evolving Vision-Language Navigation Framework Based on Multimodal Large Language Models", IEEE TASE, 2025, under review.
+- Xiangyu Dong, Xiaoguang Ma, "SEMA-VLN: A Self-Evolving Multi-Agent Vision-and-Language Navigation Framework Based on Foundation Models", IEEE RAL, 2025, under review.
+- Jiang Gao, Xiangyu Dong, Xiaoguang Ma, "PM-Nav: Prior-Map Guided Vision Language Navigation in Public Buildings", IEEE RAL, 2025, under review.
+- Haozhou Li, Xiangyu Dong, Xiaoguang Ma, "MR-VLN: Enhancing Multimodal Large Language Model-Driven Vision-and-Language Navigation via Memory and Retrieval", IEEE TCDS, 2025, under review.
