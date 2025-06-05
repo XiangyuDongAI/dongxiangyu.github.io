@@ -13,6 +13,7 @@ For more information about me: Email | Google Scholar | GitHub | Curriculum Vita
 Feel free to contact me by email if you are interested in discussing or collaborating with me.
 
 **Research Interests**
+
 My goal is to develop embodied navigation agents that can autonomously perceive, make decisions, and learn like humans, with applications in both aerial and ground robots. To achieve this, I primarily focus on:
 1. Language-driven visual navigation (such as VLN and ObjectNav).  
 2. Fine-tuning and post-training of large foundation models (such as LLMs and VLMs).  
@@ -20,5 +21,6 @@ My goal is to develop embodied navigation agents that can autonomously perceive,
 4. Vision-Language-Action models and their application in embodied navigation.
 
 **News**
+
 - I obtained my Master's degree from Zhejiang University of Technology.
 
