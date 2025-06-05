@@ -18,7 +18,7 @@ My goal is to develop embodied navigation agents that can autonomously perceive,
 1. Language-driven visual navigation (such as VLN and ObjectNav).  
 2. Fine-tuning and post-training of large foundation models (such as LLMs and VLMs).  
 3. LLM/VLM-powered self-evolving agents.  
-4. Vision-Language-Action models and their application in embodied navigation.
+4. Vision-Language-Action models and their applications.
 
 **News**
 
