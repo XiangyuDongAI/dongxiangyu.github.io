@@ -23,4 +23,5 @@ My goal is to develop embodied navigation agents that can autonomously perceive,
 **News**
 
 - 06/2024: I obtained my Master's degree from Zhejiang University of Technology.
+- 05/2024: I joined Professor Xiaoguang Ma's laboratory.
 
