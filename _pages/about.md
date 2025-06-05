@@ -14,7 +14,7 @@ Feel free to contact me by email if you are interested in discussing or collabor
 
 **Research Vision**
 
-My goal is to develop embodied navigation agents capable of autonomously perceiving, making decisions, and learning like humans, and to explore their applications in ground and aerial robots. To achieve this, I primarily focus on:
+My goal is to develop embodied navigation agents capable of autonomously perceiving, making decisions, and learning like humans, and to explore their applications in aerial and ground  robots. To achieve this, I primarily focus on:
 1. Language-driven visual navigation (e.g., VLN and ObjectNav).
 2. Large foundation models for perception and decision-making (e.g., LLMs and VLMs) and their training techniques.
 4. Lifelong / continuous / incremental learning of LLM / VLM-powered agents.
