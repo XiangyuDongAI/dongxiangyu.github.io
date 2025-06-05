@@ -25,11 +25,11 @@ author:
   avatar           : "dxy.png"
   name             : "Xiangyu Dong (董翔宇)"
   pronouns         : # example: "she/her"  
-  bio              : "Northeastern University"
+  # bio              : "Northeastern University"
   location         : "Foshan"
-  # employer         : "Red Brick University"
+  employer         : "Northeastern University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "Jax_Dong@outlook.com" 
 
   # Academic websites
   academia         : # URL
