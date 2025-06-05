@@ -8,7 +8,7 @@ redirect_from:
 ---
 I am an Embodied AI student researcher currently working at Northeastern University (Foshan), under the supervision of Professor [Xiaoguang Ma](http://www.ise.neu.edu.cn/2021/0909/c6131a202809/page.htm). Recently, I am focusing on research in Agentic UAVs. Prior to this, I received my Master's degree in Electronic Information from Zhejiang University of Technology in June 2024, where my work was dedicated to developing visual simultaneous localization and mapping (vSLAM) algorithms for ground mobile robots to achieve visual navigation in dynamic scenes.
 
-More about me: [Email](mailto:your-email@example.com) / [Google Scholar](https://scholar.google.com/citations?user=YourProfileID) / [Github](https://github.com/YourUsername) / [Curriculum Vitae](https://example.com/your-cv.pdf)
+More about me: [Email](Jax_Dong@outlook.com) / [Google Scholar](https://scholar.google.com/citations?user=YourProfileID) / [Github](https://github.com/YourUsername) / [Curriculum Vitae](https://example.com/your-cv.pdf)
 
 Feel free to contact me by email if you are interested in discussing or collaborating with me.
 
