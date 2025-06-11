@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Xiangyu Dong"
+title                    : "Xiangyu Dong's Homepage"
 title_separator          : "-"
 name                     : &name "Xiangyu Dong (董翔宇)"
 description              : &description "personal description"
